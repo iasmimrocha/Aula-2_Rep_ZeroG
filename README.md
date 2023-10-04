@@ -14,3 +14,5 @@ As principais finalidades do uso do equipamento ZeroG da Aretech incluem:
 - Promoção da Independência e Qualidade de Vida: Contribui para a independência e a melhoria da qualidade de vida de pessoas com dificuldades de mobilidade, permitindo-lhes recuperar habilidades motoras e autonomia.
 
 https://vimeo.com/806824898
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/806824898?h=cc73fd7aa1" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
