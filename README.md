@@ -16,3 +16,5 @@ As principais finalidades do uso do equipamento ZeroG da Aretech incluem:
 https://vimeo.com/806824898
 
 ![video](https://player.vimeo.com/video/806824898?h=cc73fd7aa1)
+
+
